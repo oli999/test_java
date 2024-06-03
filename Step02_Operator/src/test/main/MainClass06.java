@@ -1,6 +1,6 @@
 package test.main;
 /*
- *  6. 3항 연산자 테스트
+ *  6. 3항 연산자 테스트  수정
  */
 public class MainClass06 {
 	public static void main(String[] args) {
